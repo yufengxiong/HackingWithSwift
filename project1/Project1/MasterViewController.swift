@@ -5,6 +5,7 @@
 //  Created by Hudzilla on 13/09/2015.
 //  Copyright © 2015 Paul Hudson. All rights reserved.
 //
+// Cloned by Yufeng
 
 import UIKit
 
